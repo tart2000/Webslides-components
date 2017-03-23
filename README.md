@@ -25,8 +25,8 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-
-```
+![alt text](/screenshots/webslides_2_1600x1200.png)
+```html
 <section class="aligncenter">
   <div class="wrap">
     <h2><strong>WebSlides Components</strong></h2>
@@ -108,7 +108,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_3_1600x1200.png)
+```html
 <section>
   <!--.wrap = container 1200px -->
   <div class="wrap">
@@ -142,7 +144,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_4_1600x1200.png)
+```html
 <section>
   <div class="wrap size-50">
     <h2>
@@ -164,7 +168,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_5_1600x1200.png)
+```html
 <section>
   <header>
     <!--.wrap o <nav> = container 1200px -->
@@ -194,7 +200,9 @@ A list of webslides components with visual rendering
     </div>
   </footer>
 </section>
-
+```
+![alt text](/screenshots/webslides_6_1600x1200.png)
+```html
 <section>
   <header class="bg-white">
     <!--.wrap o <nav> = container 1200px -->
@@ -207,7 +215,9 @@ A list of webslides components with visual rendering
     <p><code>&lt;header class="bg-white"&gt;</code></p>
   </div>
 </section>
-
+```
+![alt text](/screenshots/webslides_7_1600x1200.png)
+```html
 <section>
   <div class="wrap aligncenter">
     <h1>Footers</h1>
@@ -230,7 +240,9 @@ A list of webslides components with visual rendering
     </div>
   </footer>
 </section>
-
+```
+![alt text](/screenshots/webslides_8_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h1>Navigation</h1>
@@ -355,7 +367,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_9_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h2>.grid > .column</h2>
@@ -379,7 +393,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_10_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h2>.grid.<strong>vertical-align</strong> > .column</h2>
