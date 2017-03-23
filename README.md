@@ -2014,7 +2014,9 @@ A list of webslides components with visual rendering
     <!-- .end .wrap -->
   </footer>
 </section>
-
+```
+![alt text](/screenshots/webslides_61_1600x1200.png)
+```html
 <section class="bg-black slide-top">
   <span class="background" style="background-image:url('https://source.unsplash.com/Q14J2k8VE3U/')"></span>
   <div class="wrap">
@@ -2023,7 +2025,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_62_1600x1200.png)
+```html
 <section class="bg-black aligncenter">
   <span class="background light" style="background-image:url('https://source.unsplash.com/rCOWMC8qf8A/')"></span>
   <div class="wrap">
@@ -2032,7 +2036,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_63_1600x1200.png)
+```html
 <section class="bg-apple aligncenter">
   <!--.wrap = container 1200px -->
   <div class="wrap">
@@ -2041,7 +2047,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_64_1600x1200.png)
+```html
 <section class="bg-black slide-bottom">
   <span class="background" style="background-image:url('https://source.unsplash.com/RSOxw9X-suY/')"></span>
   <div class="wrap">
@@ -2057,7 +2065,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_65_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="content-left">
@@ -2096,14 +2106,18 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_66_1600x1200.png)
+```html
 <section class="frame bg-primary aligncenter">
   <div class="wrap">
     <h2 class="text-landing">Abouts</h2>
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_67_1600x1200.png)
+```html
 <section>
   <!--.wrap = container 1200px -->
   <div class="wrap">
@@ -2149,7 +2163,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_68_1600x1200.png)
+```html
 <section class="bg-primary">
   <div class="wrap">
     <div class="content-left">
@@ -2180,7 +2196,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_69_1600x1200.png)
+```html
 <section>
   <div class="wrap size-50">
   <h3>Table of Contents</h3>
@@ -2243,7 +2261,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_70_1600x1200.png)
+```html
 <section>
   <!--.wrap = container 1200px -->
   <div class="wrap">
@@ -2269,7 +2289,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_71_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="grid vertical-align">
@@ -2292,7 +2314,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_72_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="grid vertical-align">
@@ -2318,7 +2342,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- end .wrap-->
 </section>
-
+```
+![alt text](/screenshots/webslides_73_1600x1200.png)
+```html
 <section class="frame bg-blue aligncenter">
   <div class="wrap">
     <h2 class="text-landing">Cards</h2>
@@ -2326,7 +2352,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_74_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="card-50 bg-white">
@@ -2364,7 +2392,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_75_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="card-60 bg-white">
@@ -2398,7 +2428,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_76_1600x1200.png)
+```html
 <section class="fullscreen">
   <div class="card-50">
     <figure>
@@ -2424,14 +2456,18 @@ A list of webslides components with visual rendering
   </div>
   <!-- end .card-50-->
 </section>
-
+```
+![alt text](/screenshots/webslides_77_1600x1200.png)
+```html
 <section class="aligncenter">
   <div class="wrap">
     <h2><strong>Offers and Discounts</strong></h2>
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_78_1600x1200.png)
+```html
 <section class="frame bg-red">
   <div class="wrap">
     <div class="cta">
@@ -2449,7 +2485,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_79_1600x1200.png)
+```html
 <section class="frame bg-red">
   <div class="wrap">
     <div class="cta">
@@ -2466,7 +2504,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_80_1600x1200.png)
+```html
 <section class="frame bg-red">
   <span class="background dark" style="background-image:url('https://source.unsplash.com/R1J6Z1cnJZc/')"></span>
   <div class="wrap">
@@ -2484,7 +2524,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_81_1600x1200.png)
+```html
 <section class="bg-red">
   <div class="wrap">
     <h2 class="aligncenter">Choose one plan</h2>
@@ -2528,7 +2570,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_82_1600x1200.png)
+```html
 <section class="bg-black aligncenter">
   <span class="background light" style="background-image:url('https://source.unsplash.com/hHL08lF7Ikc/')"></span>
   <div class="wrap">
@@ -2536,7 +2580,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_83_1600x1200.png)
+```html
 <section>
   <!--.wrap = container 1200px -->
   <div class="wrap">
@@ -2551,7 +2597,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_84_1600x1200.png)
+```html
 <section class="bg-black-blue">
   <!--.wrap = container 1200px -->
   <div class="wrap">
@@ -2562,7 +2610,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_85_1600x1200.png)
+```html
 <section class="bg-primary">
   <!--.wrap = container 1200px -->
   <div class="wrap size-50">
@@ -2581,7 +2631,9 @@ A list of webslides components with visual rendering
     </div>
   </footer>
 </section>
-
+```
+![alt text](/screenshots/webslides_86_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="card-50">
@@ -2596,7 +2648,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_87_1600x1200.png)
+```html
 <section class="bg-primary">
   <span class="background-left-bottom" style="background-image:url('https://webslides.tv/static/images/satya.png')"></span>
   <div class="wrap">
@@ -2612,7 +2666,9 @@ A list of webslides components with visual rendering
     <p class="alignright"><img class="whitelogo" src="../static/images/logos/microsoft.svg" alt="Microsoft"></p>
   </footer>
 </section>
-
+```
+![alt text](/screenshots/webslides_88_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="content-left">
@@ -2646,6 +2702,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
+```
+![alt text](/screenshots/webslides_89_1600x1200.png)
+```html
 <section class="bg-black aligncenter">
   <span class="background dark" style="background-image:url('https://source.unsplash.com/CxYHfBkC0vs/')"></span>
   <div class="wrap">
@@ -2653,7 +2712,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_90_1600x1200.png)
+```html
 <section class="bg-black">
   <span class="background" style="background-image:url('https://source.unsplash.com/p3UCTiZIU6M/')"></span>
   <!--.wrap = container 1200px -->
@@ -2670,7 +2731,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_91_1600x1200.png)
+```html
 <section class="bg-green">
   <!--.wrap = container 1200px -->
   <div class="wrap">
@@ -2724,7 +2787,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_92_1600x1200.png)
+```html
 <section class="bg-apple">
   <span class="background-right-bottom" style="background-image:url('../static/images/iphone-hand.png')"></span>
   <div class="wrap">
@@ -2745,7 +2810,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_93_1600x1200.png)
+```html
 <section class="bg-primary">
   <span class="background dark" style="background-image:url('https://source.unsplash.com/RkBTPqPEGDo/')"></span>
   <!--.wrap = container 1200px -->
@@ -2769,7 +2836,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_94_1600x1200.png)
+```html
 <section class="bg-black aligncenter">
   <span class="background dark" style="background-image:url('https://source.unsplash.com/Zq_K89I9E-8/)"></span>
   <div class="wrap">
@@ -2778,7 +2847,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_95_1600x1200.png)
+```html
 <section>
   <span class="background" style="background-image:url('https://source.unsplash.com/LcDPAqX8dt8/)"></span>
   <div class="wrap size-50">
@@ -2804,7 +2875,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_96_1600x1200.png)
+```html
 <section class="bg-black aligncenter">
   <span class="background light" style="background-image:url('https://source.unsplash.com/1_CMoFsPfso/')"></span>
   <div class="wrap size-50">
@@ -2818,7 +2891,9 @@ A list of webslides components with visual rendering
 &lt;/section&gt;</pre>
   </div>
 </section>
-
+```
+![alt text](/screenshots/webslides_97_1600x1200.png)
+```html
 <section class="bg-black aligncenter">
   <span class="background dark" style="background-image:url('https://source.unsplash.com/1_CMoFsPfso')"></span>
   <div class="wrap size-50">
@@ -2832,7 +2907,9 @@ A list of webslides components with visual rendering
 &lt;/section&gt;</pre>
   </div>
 </section>
-
+```
+![alt text](/screenshots/webslides_98_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h3>16 Different Backgrounds</h3>
@@ -2857,7 +2934,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_99_1600x1200.png)
+```html
 <section>
   <span class="background-right-bottom" style="background-image:url('../static/images/iphone-hand.png')"></span>
   <div class="wrap">
@@ -2897,7 +2976,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_100_1600x1200.png)
+```html
 <section class="aligncenter bg-black">
   <span class="background anim" style="background-image:url('https://source.unsplash.com/n9WPPWiPPJw/')"></span>
   <!--.wrap = container 1200px -->
