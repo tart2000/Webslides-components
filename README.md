@@ -558,7 +558,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_21_1600x1200.png)
+![alt text](/screenshots/webslides_20_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -571,7 +571,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_22_1600x1200.png)
+![alt text](/screenshots/webslides_21_1600x1200.png)
 ```html
 <section class="slide-bottom">
   <div class="wrap">
@@ -584,7 +584,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_23_1600x1200.png)
+![alt text](/screenshots/webslides_22_1600x1200.png)
 ```html
 <section class="slide-bottom">
   <div class="wrap">
@@ -597,7 +597,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_24_1600x1200.png)
+![alt text](/screenshots/webslides_23_1600x1200.png)
 ```html
 <section class="slide-bottom">
   <div class="wrap">
@@ -610,7 +610,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_25_1600x1200.png)
+![alt text](/screenshots/webslides_24_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -623,7 +623,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_26_1600x1200.png)
+![alt text](/screenshots/webslides_25_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -636,7 +636,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_27_1600x1200.png)
+![alt text](/screenshots/webslides_26_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -649,7 +649,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_28_1600x1200.png)
+![alt text](/screenshots/webslides_27_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -692,7 +692,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_29_1600x1200.png)
+![alt text](/screenshots/webslides_28_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -730,7 +730,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_30_1600x1200.png)
+![alt text](/screenshots/webslides_29_1600x1200.png)
 ```html
 <section class="bg-gradient-h">
   <div class="wrap">
@@ -744,7 +744,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_31_1600x1200.png)
+![alt text](/screenshots/webslides_3à_1600x1200.png)
 ```html
 <section class="bg-gradient-v aligncenter">
   <div class="wrap">
@@ -754,7 +754,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_32_1600x1200.png)
+![alt text](/screenshots/webslides_31_1600x1200.png)
 ```html
 <section class="bg-gradient-r aligncenter">
   <div class="wrap">
@@ -764,14 +764,14 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_33_1600x1200.png)
+![alt text](/screenshots/webslides_32_1600x1200.png)
 ```html
 <section class="bg-apple aligncenter">
   <h2>One more background :)</h2>
   <p><code>.bg-apple</code></p>
 </section>
 ```
-![alt text](/screenshots/webslides_34_1600x1200.png)
+![alt text](/screenshots/webslides_33_1600x1200.png)
 ```html
 <section class="aligncenter">
   <div class="wrap">
@@ -813,7 +813,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_35_1600x1200.png)
+![alt text](/screenshots/webslides_34_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -890,7 +890,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_36_1600x1200.png)
+![alt text](/screenshots/webslides_35_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -974,7 +974,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_37_1600x1200.png)
+![alt text](/screenshots/webslides_36_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -999,7 +999,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_38_1600x1200.png)
+![alt text](/screenshots/webslides_37_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -1055,7 +1055,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_39_1600x1200.png)
+![alt text](/screenshots/webslides_38_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -1111,7 +1111,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_40_1600x1200.png)
+![alt text](/screenshots/webslides_39_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -1167,7 +1167,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_41_1600x1200.png)
+![alt text](/screenshots/webslides_40_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -1238,7 +1238,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_42_1600x1200.png)
+![alt text](/screenshots/webslides_41_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -1286,7 +1286,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_43_1600x1200.png)
+![alt text](/screenshots/webslides_42_1600x1200.png)
 ```html
 <section>
   <div class="wrap">
@@ -1332,7 +1332,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_43_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h3>CVS and News</h3>
@@ -1383,7 +1385,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_44_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h3>Portfolio, team, work, showcase...</h3>
@@ -1426,7 +1430,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_45_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h3>Portfolio, team, work, showcase...</h3>
@@ -1469,7 +1475,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_46_1600x1200.png)
+```html
 <section class="aligncenter">
   <div class="wrap">
     <ul class="flexblock gallery">
@@ -1517,7 +1525,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_47_1600x1200.png)
+```html
 <section class="bg-green">
   <div class="wrap">
     <h3>ul.flexblock.metrics.border</h3>
@@ -1582,7 +1592,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_48_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h2 class="aligncenter">ul.flexblock.plans.blink</h2>
@@ -1621,7 +1633,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_49_1600x1200.png)
+```html
 <section>
   <div class="wrap size-50">
     <ul class="flexblock plans blink">
@@ -1687,7 +1701,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_50_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h3>ul.work</h3>
@@ -1726,7 +1742,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_51_1600x1200.png)
+```html
 <section class="aligncenter">
   <span class="background-right-top" style="background-image:url('https://webslides.tv/static/images/balloon.png')"></span>
   <div class="wrap">
@@ -1745,7 +1763,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_52_1600x1200.png)
+```html
 <section class="bg-primary">
   <span class="background-right-bottom" style="background-image:url('../static/images/iphone-hand.png')"></span>
   <div class="wrap">
@@ -1766,7 +1786,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_53_1600x1200.png)
+```html
 <section>
   <!--.wrap = container 1200px -->
   <div class="wrap">
@@ -1815,7 +1837,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_54_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h1>Design <span>for</span> understanding</h1>
@@ -1841,7 +1865,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_55_1600x1200.png)
+```html
 <section class="aligncenter">
   <!--.wrap = container 1200px -->
   <div class="wrap">
@@ -1890,7 +1916,9 @@ A list of webslides components with visual rendering
     </ul>
   </div>
 </section>
-
+```
+![alt text](/screenshots/webslides_56_1600x1200.png)
+```html
 <section class="bg-black aligncenter">
   <!-- Overlay/Opacity: [class*="bg-"] > .background.dark or .light -->
   <span class="background" style="background-image:url('https://source.unsplash.com/UJbHNoVPZW0/')"></span>
@@ -1911,7 +1939,9 @@ A list of webslides components with visual rendering
     </div>
   </footer>
 </section>
-
+```
+![alt text](/screenshots/webslides_57_1600x1200.png)
+```html
 <section class="bg-black aligncenter">
   <!-- Overlay/Opacity: [class*="bg-"] > .background.dark or .light -->
   <span class="background" style="background-image:url('https://source.unsplash.com/mGYxAWITqMg/')"></span>
@@ -1926,7 +1956,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_58_1600x1200.png)
+```html
 <section class="bg-black aligncenter">
   <span class="background" style="background-image:url('https://source.unsplash.com/-g4dgdOExsw/')"></span>
   <div class="wrap">
@@ -1952,7 +1984,9 @@ A list of webslides components with visual rendering
     </div>
   </footer>
 </section>
-
+```
+![alt text](/screenshots/webslides_59_1600x1200.png)
+```html
 <section class="bg-gradient-v">
   <span class="background dark" style="background-image:url('https://source.unsplash.com/nxfuA21kNHY/1440x1440')"></span>
   <div class="wrap size-60">
@@ -1961,7 +1995,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_60_1600x1200.png)
+```html
 <section class="bg-black slide-top">
   <span class="background" style="background-image:url('https://source.unsplash.com/sK1hW5knKkw/')"></span>
   <div class="wrap">
