@@ -2987,7 +2987,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_101_1600x1200.png)
+```html
 <section>
   <div class="wrap size-60">
     <h3>Background Videos</h3>
@@ -2998,7 +3000,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_102_1600x1200.png)
+```html
 <section class="bg-blue aligncenter">
   <video class="background-video dark" autoplay loop muted poster="https://webslides.tv/static/images/peggy.jpg">
     <source src="https://webslides.tv/static/videos/peggy.mp4" type="video/mp4">
@@ -3009,7 +3013,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_103_1600x1200.png)
+```html
 <section class="bg-black aligncenter">
   <span class="background dark" style="background-image:url('https://source.unsplash.com/MDGpwpMY2Ws/')"></span>
   <div class="wrap">
@@ -3018,7 +3024,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_104_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="content-left">
@@ -3041,7 +3049,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_105_1600x1200.png)
+```html
 <section>
   <div class="wrap size-60">
     <!-- Responsive video/iframe... Add <div class="embed"> -->
@@ -3052,7 +3062,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_106_1600x1200.png)
+```html
 <section class="fullscreen">
   <!-- Fullscreen Video -->
   <div class="embed">
@@ -3060,7 +3072,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .embed -->
 </section>
-
+```
+![alt text](/screenshots/webslides_107_1600x1200.png)
+```html
 <section>
   <div class="wrap size-60">
     <h3><a href="https://www.theatlas.com/" title="I love Quartz's charts">Charts</a></h3>
@@ -3074,7 +3088,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_108_1600x1200.png)
+```html
 <section class="bg-black-blue frame">
   <div class="wrap size-50">
     <p class="text-context">Status of Net Neutrality around the world.</p>
@@ -3085,7 +3101,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_109_1600x1200.png)
+```html
 <section>
   <div class="wrap size-50">
     <p class="text-subtitle">Optional &middot; 500+ icons</p>
@@ -3112,7 +3130,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_110_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h2>Transparent Logos</h2>
@@ -3157,7 +3177,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_111_1600x1200.png)
+```html
 <section>
   <!--.wrap = container 1200px -->
   <div class="wrap">
@@ -3170,7 +3192,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_112_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="grid vertical-align">
@@ -3218,7 +3242,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- end .wrap-->
 </section>
-
+```
+![alt text](/screenshots/webslides_113_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="content-left">
@@ -3238,7 +3264,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_114_1600x1200.png)
+```html
 <section>
   <div class="wrap size-50">
     <h2>CSS Animations</h2>
@@ -3254,7 +3282,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_115_1600x1200.png)
+```html
 <section>
   <div class="wrap aligncenter fadeInUp">
     <h2>Slide</h2>
@@ -3262,7 +3292,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_116_1600x1200.png)
+```html
 <section>
   <div class="wrap size-40 zoomIn aligncenter">
     <figure>
@@ -3272,7 +3304,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_117_1600x1200.png)
+```html
 <section>
   <div class="wrap size-50">
     <h3>.slow (animation duration)</h3>
@@ -3284,14 +3318,18 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_118_1600x1200.png)
+```html
 <section>
   <div class="wrap aligncenter">
     <h2 class="fadeIn slow">h2.fadeIn.slow</h2>
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_119_1600x1200.png)
+```html
 <section>
   <div class="wrap size-60">
     <h3>WebSlides is clean, consistent, and <strong>extensible</strong>.</h3>
@@ -3319,7 +3357,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_120_1600x1200.png)
+```html
 <section class="aligncenter">
   <!-- .wrap = container 1200px -->
   <div class="wrap">
