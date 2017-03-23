@@ -418,7 +418,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_11_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h2>.grid.<strong>sm</strong> (sidebar + main)</h2>
@@ -437,7 +439,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_12_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h2>.grid.<strong>ms</strong> (main +  sidebar)</h2>
@@ -456,7 +460,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_13_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h2>.grid.<strong>sms</strong> (sidebar + main +  sidebar)</h2>
@@ -479,12 +485,16 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_14_1600x1200.png)
+```html
 <section class="aligncenter">
   <h2>Simple CSS Alignments</h2>
   <p>Put content wherever you want.</p>
 </section>
-
+```
+![alt text](/screenshots/webslides_15_1600x1200.png)
+```html
 <section class="slide-top">
   <div class="wrap">
     <div class="content-left">
@@ -495,7 +505,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_16_1600x1200.png)
+```html
 <section class="slide-top">
   <div class="wrap">
     <div class="content-center">
@@ -506,7 +518,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_17_1600x1200.png)
+```html
 <section class="slide-top">
   <div class="wrap">
     <div class="content-right">
@@ -517,7 +531,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_18_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="content-left">
@@ -528,7 +544,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_19_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="content-center">
@@ -539,7 +557,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_21_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="content-right">
@@ -550,7 +570,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_22_1600x1200.png)
+```html
 <section class="slide-bottom">
   <div class="wrap">
     <div class="content-left">
@@ -561,7 +583,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_23_1600x1200.png)
+```html
 <section class="slide-bottom">
   <div class="wrap">
     <div class="content-center">
@@ -572,7 +596,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_24_1600x1200.png)
+```html
 <section class="slide-bottom">
   <div class="wrap">
     <div class="content-right">
@@ -583,7 +609,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_25_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <img class="alignright size-50" src="../static/images/iphone.png" alt="iPhone">
@@ -594,7 +622,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_26_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <img class="alignleft size-50" src="../static/images/iphone.png" alt="iPhone">
@@ -605,7 +635,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_27_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <img class="alignleft size-30" src="../static/images/iphone.png" alt="iPhone">
@@ -616,7 +648,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_28_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h3>Corporate Backgrounds</h3>
@@ -657,7 +691,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_29_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <ul class="flexblock">
@@ -693,7 +729,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_30_1600x1200.png)
+```html
 <section class="bg-gradient-h">
   <div class="wrap">
     <h1>Gradients</h1>
@@ -705,7 +743,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_31_1600x1200.png)
+```html
 <section class="bg-gradient-v aligncenter">
   <div class="wrap">
     <h2>Vertical Gradient</h2>
@@ -713,7 +753,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_32_1600x1200.png)
+```html
 <section class="bg-gradient-r aligncenter">
   <div class="wrap">
     <h2>Radial Gradient</h2>
@@ -721,12 +763,16 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_33_1600x1200.png)
+```html
 <section class="bg-apple aligncenter">
   <h2>One more background :)</h2>
   <p><code>.bg-apple</code></p>
 </section>
-
+```
+![alt text](/screenshots/webslides_34_1600x1200.png)
+```html
 <section class="aligncenter">
   <div class="wrap">
     <div class="content-center">
@@ -766,7 +812,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_35_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h3>Multipurpose (services, work...)</h3>
@@ -841,7 +889,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_36_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h3>Multipurpose (services, clients...)</h3>
@@ -923,7 +973,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_37_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h3>Multipurpose</h3>
@@ -946,7 +998,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_38_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h2>Clients</h2>
@@ -1000,7 +1054,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_39_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h2>Clients</h2>
@@ -1054,7 +1110,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_40_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h3>ul.flexblock.steps</h3>
@@ -1108,7 +1166,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_41_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <h3>ul.flexblock.features</h3>
@@ -1177,7 +1237,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_42_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <!-- [class*="content-"] = container max-width:50% = 600px -->
@@ -1223,7 +1285,9 @@ A list of webslides components with visual rendering
   </div>
   <!-- .end .wrap -->
 </section>
-
+```
+![alt text](/screenshots/webslides_43_1600x1200.png)
+```html
 <section>
   <div class="wrap">
     <div class="card-50">
