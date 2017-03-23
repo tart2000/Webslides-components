@@ -744,7 +744,7 @@ A list of webslides components with visual rendering
   <!-- .end .wrap -->
 </section>
 ```
-![alt text](/screenshots/webslides_3à_1600x1200.png)
+![alt text](/screenshots/webslides_30_1600x1200.png)
 ```html
 <section class="bg-gradient-v aligncenter">
   <div class="wrap">
